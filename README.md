@@ -6,6 +6,7 @@ Excel, SQL, Power query, DAX
 This project analyzes Uber trip data to uncover patterns in ride activity, trip demand, revenue, and customer behavior.
 
 The goal was to transform raw trip data into meaningful business insights that could help stakeholders understand when, where, and how Uber services are being used and identify opportunities to improve operational decision-making.
+NOTE:THE DATA FILE COULD NOT BE ADDED DUE TO ITS MASSIVE SIZE
 
 ---
 
